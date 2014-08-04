@@ -42,7 +42,7 @@ views.
 
 ### Exceptions from this guide
 The general rule is make things look
-[beautiful](http://www.perennial.io/good-better-best-programming-practices/)
+[beautiful](https://github.com/Perennials/articles/blob/master/Good-better-best-programming-practices.md)
 and consistent. Make things readable, not a brainfuck. Exceptions are allowed
 but only with specific and clear intention, not out of laziness. Try not
 to conflict with the overall style of the project you are working on.
