@@ -363,7 +363,7 @@ function MyFunction () {
 
 ### Language abuse, performance considerations
 
-Don't too be clever when there is simple way to achieve it. Usualy there is no
+Don't be too clever when there is simple way to achieve it. Usualy there is no
 added benefit, not for readability neither for performance.
 
 ```php
