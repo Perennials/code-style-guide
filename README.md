@@ -30,7 +30,7 @@ scroll two screens, whole functions bodies wrapped in a single if, the list
 goes on. This list doesn't cover every possible case or stupidity one can come
 up with, but I will expand it in time when I meet more examples of bad code.
 
-The guide was written in PHP in mind so some of the rules inside are not
+The guide was written with PHP in mind so some of the rules inside are not
 applicable everywhere, but most are pretty general.
 
 ### Contributing
