@@ -63,12 +63,19 @@ Examples
 ### Spacing and new lines
 
 * Indent with tabs, never mix tabs and spaces.
-* Spaces around binary operators, after commas, be generous with spacing.
-* Space after statements like `if`, `for`, `while`, after function declarations,
-  inside parenthesis.
-* No one-liners, always curly brackets.
-* Opening brackets on the same line.
-* Closing brackets on separate line.
+* Be generous with spacing, and more specifically:
+  * Spaces after commas, inside parenthesis and brackets.
+  * Space around binary operators.
+  * No space around unary operators.
+  * Space after statements like `if`, `for`, `while`, after function declarations,
+    e.g. `function file_get_contents ( '...', '...' ) { /*...*/ }`
+  * No space after function calls, e.g. `file_get_contents( '...', '...' );`.
+* No one-liners, always curly braces.
+* Opening braces on the same line.
+* Closing braces on separate line.
+* `else` always on separate line.
+* `catch` always on separate line.
+* Commas at the end of the line, not at the beginning.
 
 ```php
 //// BAD
